@@ -1,0 +1,103 @@
+body{
+padding: 0psssx;
+margin: 0px;
+font-family: sans-serif;
+background: hsla(0, 0%, 100%, 0.847);
+color: #f6e5e5;
+}
+a:link{
+color:rgb(19, 20, 19)
+}
+a:visited{
+color:rgb(83, 81, 73)
+}
+a:hover{
+background-color:#3CF;
+color:#03F
+}
+a:active{
+color:#F3F
+}
+.logo{
+font-size:34px
+}
+#navlist li
+{
+display: inline;
+list-style-type:circle;
+padding-right: 30px;
+border-left: 1px solid #000;
+line-height: 1.1em;
+margin: 0 .5em 0 -.5em;
+padding: 0 .5em 0 .5em;
+}
+.box {
+margin:10px;
+padding:10px;
+background-color:#666;
+border-width:1px;
+border-color:black;
+border-style:solid;
+clear:both;
+}
+.nav {
+margin:10px;
+padding:10px;
+background-color:#9b9393;
+border-width:20px;
+border-color:rgb(212, 211, 211);
+border-style:solid
+}
+.left {
+width:20%;
+margin:10px;
+padding:15px;
+background-color:#2a2727;
+border-width:1px;
+border-color:black;
+border-style:solid;
+float:left;
+}
+.centre {
+width:47%;
+margin:10px;
+padding:15px;
+background-color:#080707;
+border-width:1px;
+border-color:black;
+border-style:solid;
+float:left;
+}
+.right {
+width:20%;
+margin:10px;
+padding:15px;
+background-color:#050505;
+border-width:1px;
+border-color:black;
+border-style:solid;
+float:right;
+}
+.lower_nav {
+margin:10px;
+padding:10px;
+background-color:#999;
+border-width:1px;
+border-color:black;
+border-style:solid;
+clear:both;
+}
+.legal {
+margin:10px;
+padding:10px;
+background-color:#ed8484;
+border-width:1px;
+border-color:black;
+border-style:solid;
+float:none;
+clear:both;
+}
+.deadnav{
+    color: #fff;
+    background-color: #3cf;
+}
